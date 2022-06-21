@@ -1,9 +1,7 @@
-.zoom-box {
-    background-color: black;
+.clearfix :hover {
+  font-size:larger;
+  transform: scaleY(1.0);
+  transform: scaleX(1.0);
 }
 
 
-.zoom-box:hover {
-    -webkit-transform: scale(1.5);
-        transform: scale(1.5);
-}
