@@ -1,0 +1,9 @@
+.zoom-box {
+    background-color: black;
+}
+
+
+.zoom-box:hover {
+    -webkit-transform: scale(1.5);
+        transform: scale(1.5);
+}
